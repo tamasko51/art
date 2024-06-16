@@ -1,0 +1,741 @@
+ArtMoney Plugin
+8.17
+Tradução em Português-BR por:
+André Alexandre Gomes Mendes
+andre_alexandre@ymail.com
+Sobre
+Game Cheater
+<d>, <ms>, <yyyy>//Formato de Data
+Copyright (C) 1996-2020, System SoftLab
+Caso você encontre alguns erros ou
+Tenha algumas sugestões, envie um E-Mail para
+Por favor, visite o site ArtMoney para a versão mais recente
+Valor
+Procurar
+Filtrar
+Número de Valores
+Primeiro, Selecione o Processo do Jogo
+Agora comece a procurar no processo
+Filtrar até que o número de ocorrências correspondentes não diminua
+Sinto muito, mas você não encontrou nada. Tente outra vez.
+Desativado
+Encontrou
+Endereços
+Endereços
+Endereço
+Na Tabela
+Erro no Carregamento
+Erro na Busca
+Erro na Filtragem
+Formato de Arquivo não Suportado
+Número Impossível para o Tipo Escolhido
+Eu não posso Carregar
+Procurar no Processo
+Filtrar Processo
+Todos Possíveis
+byte
+byte
+bytes
+Método Inválido. Tente Outros.
+seg
+min
+Você não selecionou nenhum Tipo para este Método
+Tamanho do Tipo não pode ser maior que
+Mudou
+Não mudou
+Aumentou
+Diminuiu
+Esta tabela foi criada por uma versão atual
+Esta tabela está danificada
+Erro de acesso ao arquivo
+Inteiro 1 byte
+Inteiro 2 bytes
+Inteiro 3 bytes
+Inteiro 4 bytes
+Inteiro 8 bytes
+Flutuante 4 bytes
+Flutuante 6 bytes
+Flutuante 8 bytes
+Flutuante 10 bytes
+Texto
+C. de caracteres Nula-Terminada
+C. de caracteres Nula
+C. de caracteres Pascal
+R.Inteiro 2 bytes//R.=Reversa
+R.Inteiro 3 bytes
+R.Inteiro 4 bytes
+R.Inteiro 8 bytes
+R.Flutuante 4 bytes
+R.Flutuante 6 bytes
+R.Flutuante 8 bytes
+R.Flutuante 10 bytes
+R.Texto
+R.C. de caracteres Nula
+R.C. de caracteres Pascal
+Janeiro
+Fevereiro
+Março
+Abril
+Maio
+Junho
+Julho
+Agosto
+Setembro
+Outubro
+Novembro
+Dezembro
+C//C=Congelar
+Ajuda
+Sobre
+Selecionar Processo
+Limpar
+Carregar
+Salvar
+Adicionar
+Adicionar Todos
+Editar
+Copiar
+Deletar
+Congelar
+Descongelar
+Auto aplicar o offset
+Informações
+Tipo de Processo
+Atualização de Congelamento (ms)
+Tempo de Atualização (ms)
+Idioma da Interface
+Mostrar Endereços
+Mostrar ArtMoney
+Geral
+Adicional
+Pessoal
+Email
+Comentário Padrão
+Sistema Operacional
+Formato Decimal
+Ordem dos Bytes
+Prioridade de Escaneamento
+Alta
+Completa
+Opções
+Cancelar
+Normal
+Editar Endereço
+Congelar
+Tamanho
+Endereço
+Descrição
+Tipo
+Reverter
+Valor Exato
+Sequencia de Valores
+Intervalo de valores
+Valor Desconhecido
+Valor Codificado
+Personalizado
+Selecionar Tipo
+Ordem dos Bytes
+Normal e Reversa
+Todos
+Inteiro
+Flutuante
+Tempo Decorrido:
+Tempo Restante:
+Velocidade:
+Encontrou:
+Jogo
+Comentário
+Data
+Sistema
+Tabela de Informações
+Criado por
+Nome
+Local
+Seqüência de entrada
+Configuração da tecla de atalho
+Reversa
+Procurar neste bloco de memória
+Procurar no intervalo do endereço
+Economizar espaço em disco
+De
+Até
+Procurar
+Filtrar
+Etapa
+Etapa//Definir Valor
+Definir Valor
+Selecionar Todos
+Automático
+Mostrar Processos
+Visível
+Com Janelas
+Informações do Processo
+Eliminar o Processo
+Mostrar Janela
+Ocultar Janela
+Você tem certeza de que deseja encerrar o processo?
+Acesso Negado
+Não foi possível finalizar o processo
+Arquivo
+Tipo de Processo
+Tamanho dos Dados
+Referencial
+Referencial para medir a velocidade de varredura de memória
+Esperar
+Seu Sistema
+Teclas de Atalho
+Adicionar ao Valor
+Trancar esta Janela
+Ativar Desfazer/Refazer a filtragem
+Exibir Inteiro
+Não Assinado
+Assinado
+Desfazer a filtragem
+Refazer a filtragem
+Salvar a filtragem
+Carregar a filtragem
+A etapa atual é
+"Desfazer a filtragem" não está ativado
+"Refazer a filtragem" não está ativado
+"Carregar a filtragem" não está ativado
+Aumentou em
+Diminuiu em
+Interface
+Teclas de Atalho
+Teclas de Atalho estão ativadas
+Teclas de Atalho Padrão
+Fonte da Interface
+Fonte da tabela
+Cor da Interface
+Cor dos Menus Editar
+Cor do Botão
+Botão Elipse
+OK
+Editor de Memória
+Exibir Hexadecimal
+Editar Hexadecimal
+Número de colunas de valores
+Exibir Células
+Célula Atual
+Mover para
+Resultado da busca
+Tabela
+Bloco da memória
+Endereço
+Primeiro
+Anterior
+Próximo
+Último
+Total
+Atual
+Copiar área selecionada
+Colar área selecionada
+Adicionar à tabela
+Todos (Padrão)
+Inteiro (Padrão)
+Flutuante (Padrão)
+Inverter Seleção
+Alinhar Colunas
+<NÃO>
+Ponteiro
+Atualizar
+Editar Selecionado
+Grupo
+Grupo Visível
+Selecionar Grupo
+Salvar este Endereço/Ponteiro
+Auto aplicar o offset para todos
+Auto aplicar o offset para grupo
+Auto aplicar o offset dos endereços salvos para todos
+Auto aplicar o offset dos endereços salvos para grupo
+Os comandos com ponteiros
+Definir o ponteiro para todos
+Definir o ponteiro para grupo
+Definir o ponteiro salvo para todos
+Definir o ponteiro salvo para grupo
+Definir ponteiros para este endereço
+Definir ponteiros para endereço salvo
+Procurar o ponteiro para este endereço
+Procurar o ponteiro no início deste bloco de memória
+Organizar
+Organizar por descrição
+Organizar por endereço
+Organizar por valor
+Organizar por valor como texto
+Organizar por grupo
+Mesclar
+Erro na mesclagem
+Ambas as tabelas devem ser criadas por um autor
+Selecionar Processo Atual
+Conjunto de Caracteres
+Mostrar painel grupo visível
+Em Grupo
+Converter Ponteiros para Endereços
+Definir Filtro
+Conjunto de Caracteres
+<Arquivo não Encontrado>
+<Acesso Negado>
+Editor de Arquivos
+Erros
+<O Tamanho Mudou>
+Visual
+Sem Visual
+Fonte dos Menus Editar
+Cor da Tabela
+Salvar Dump da memória
+Por Fórmula
+Processo
+Parar o Processo
+Resumir o Processo
+Salvar o Processo
+Carregar o Processo
+ID do Processo
+Tópicos
+Arquivos(s)
+Informações de Arquivos(s)
+Selecionar Arquivo
+Selecionar Pasta
+Número de Arquivos(s)
+Tamanho Total
+Movendo-se em pasta
+Alvo
+Tabela
+Sair
+Resultado
+Mais
+Comprar ArtMoney Pro online
+Visitar a nossa página
+Manual do ArtMoney
+Codificação
+Selecionar Codificação
+Brilho
+Tonalidade
+Mostrar Menu Principal
+Usar plugins de Idioma não oficiais
+Interromper o processo durante a busca
+Salvar/Carregar os valores na tabela
+Biblioteca para visualizador de processo
+Opções de Pasta
+Mascarar arquivo
+Modificação do tempo
+Data do Arquivo
+Tempo do Arquivo
+Não Verificar
+Últimos 15 minutos
+Última hora
+Último dia
+Último mês
+Último ano
+Mais que
+Menos que
+Este recurso está disponível apenas na edição ArtMoney Pro
+Somente no ArtMoney Pro
+Contrato de Licença
+Eu concordo com os termos e condições do Contrato de Licença
+Sobre a Edição PRO
+Agradecimentos
+pelo design do manual do usuário
+pelo logotipo
+pelo módulo de configuração
+pela criação dos ícones
+pela verificação gramatical do manual em inglês
+pela ajuda
+pelo mecanismo do visual (pacote ThemeEngine)
+pelos conselhos e comentários valiosos
+pelas traduções
+pelas tabelas
+Número de Registro
+Não Registrado
+Não perguntar minha senha novamente
+Somente para usuários de Windows atuais
+Parar o processo e mostrar ArtMoney
+Voltar ao processo e resumi-lo
+Encerramento de colchetes Desnecessários
+Encerramento de colchetes Necessários
+Encerramento de sinais e citações Desnecessários
+Identificação Inválida
+Número inválido de argumentos (M1,M2...)
+Número inválido de operações (-,+)
+Número inválido de condições (<,>,=)
+Número inválido de expressões
+Expressão inválida
+Esta etapa não existe
+Condição inválida
+Parâmetro inválido para
+Sem condições
+Procurando
+Registro
+Senha
+Digite a senha e clique em "OK"
+Senha errada
+Arquivo Chave errado ou antigo
+Sem Arquivo Chave
+Padrão
+Cancelado pelo usuário
+Idioma do Manual
+Processo não Econtrado
+Atualizar os valores em uma tabela apenas de forma focalizada
+Tamanho do código
+Mapa do processo
+Endereço da Região
+Estado
+Proteção de Região
+Proteção
+Nome do módulo
+Este recurso funciona somente em Windows 2000/XP/2003/VISTA/2008/7/8/2012/10
+Salvar/Carregar um processo
+Modo
+Processo inválido. O processo foi modificado ou reiniciado.
+Fechar
+Em Excel
+Arredondar valores flutuantes
+Macromedia Flash
+Alcance
+Manter o processo na memória
+Tamanho reservado de memória física
+Executar um novo processo
+Instalar
+Criar um atalho na área de trabalho
+Ocultar o processo
+Mostrar o processo
+Emulador
+Console
+Alcance de endereços
+Usar Opções de Emulador
+Mapa da Memória do Emulador
+Endereço do Emulador
+Endereço do PC
+Você deseja converter endereços de emulador para endereços de PC?
+Você deseja converter endereços de PC para endereços de emulador?
+Erro em converter endereço
+Auto Detectar o Emulador pelo nome de arquivo
+Grupos
+Mostrar Árvore de Grupos
+Nenhum
+Esquerda
+Direita
+Novo Grupo
+Principal
+Idioma
+Você deseja deletar este Idioma?
+Você deseja adicionar um novo Idioma?
+Você deseja modificar o nome do Idioma?
+Congelamento Normal
+Pode Aumentar
+Pode Diminuir
+Do Mínimo para o Máximo
+Mínimo
+Máximo
+Copiar Selecionado
+Baixar "Spyware Process Detector"
+O programa "Spyware Process Detector" não foi encontrado no seu computador. Você pode baixar e instalá-lo de nosso site empresarial: www.systemsoftlab.com. O programa pode trabalhar em conjunto com o ArtMoney como um seletor de processo. Usando "Spyware Process Detector", você pode abrir qualquer processo oculto e um processo que bloqueia a abertura. O programa mostra informações detalhadas sobre processos em execução no seu PC e detecta novos spywares, trojans e vírus (indetectáveis pelo seu anti-vírus).
+Enviar sugestões ou relatórios de erros para
+Visite o nosso site empresarial e baixe outros programas
+Esta é uma versão gratuita LIMITADA. Você pode comprar uma versão completa por apenas 24,90 dólares. É um pagamento único - atualizações são gratuitas!
+Somente usuários registrados podem obter suporte técnico completo e podem usar todos os recursos extras.
+Para comprar, verifique se você está conectado à internet, e clique no botão "Registrar-se online agora" abaixo.
+Registrar-se online agora
+Serviço de Instalação
+O Windows precisa autenticar o usuário para instalar o serviço.
+Instale como o seguinte usuário
+Nome de usuário
+Domínio
+Erro de serviço de instalação
+Falha de logon para usuário
+Modo Oculto
+Ocultar meu processo
+Ocultar minhas janelas
+Antiga versão de serviço instalado. Por favor, reinicie o seu computador para instalar uma nova versão.
+A Tabela foi Modificada
+Você deseja salvar as modificações?
+Sempre perguntar se deseja salvar a tabela após sair do ArtMoney
+Estrutura
+Saltado
+Campo
+Tamanho da estrutura não pode ser superior a
+Item
+Novo Item
+Procurar na estrutura da tabela
+Procurar na estrutura do grupo
+Procurar na estrutura dos endereços selecionados
+Mover para cima
+Mover para baixo
+Adquirir ArtMoney Pro Gratuitamente
+Pela verificação gramatical do manual em russo
+Tipo de arredondamento
+Arredondar mais próximo
+Arredondar abaixo
+Arredondar acima
+Arredondar para zero
+Continuar
+Adquirir gratuitamente
+Disassembler
+instrução Assembly
+Usar Módulo de endereçamento
+Módulo
+Endereço no Módulo
+Erro de conversão
+Eu não posso converter o endereço do módulo: Não existe tal módulo, no processo.
+Escanear área da memória dos módulos do sistema
+Escanear área da memória dos módulos compartilhados
+Erro ao abrir processo
+Não é possível abrir este processo.
+Tente usar a edição PRO.
+Você precisa da edição PRO para esta tabela
+Registro inválido
+Endereço inválido
+Valor inválido
+O valor é muito alto
+Instrução assembly inválida
+Executar o programa ArtMoney como administrador, uma vez. Para isso, clique com o botão direito sobre o atalho do ArtMoney e selecione a opção "Executar como administrador " no menu de contexto.
+Erro em iniciamento do serviço
+Erro na abertura do serviço
+Tente reiniciar o seu computador
+Mudou em
+Conversão da tabela
+Você quer converter sua tabela para o modo 64-bit?
+Você quer converter sua tabela para o modo 32-bit?
+Ocorreu um erro na conversão. O programa não pode converter os endereços para o modo 32-bit.
+Multiplicidade//Divisibilidade de endereços
+Par//Divisibilidade por 2
+Ímpar
+Múltiplo de 4//Divisibilidade por 4
+Múltiplo de 8//Divisibilidade por 8
+Múltiplo de 16//Divisibilidade por 16
+Escanear somente endereços estáticos em módulos
+Opções de visualização do módulo
+Digite o código de registro
+Por favor, cole seu código de registro (use Ctrl-V ou o botão "Colar") e clique em "OK"
+Colar
+O código de Registro é inválido
+O código de Registro só serve para a versão Inglesa
+O código de Registro só serve para a versão Russa
+O código de Registro só serve para a versão Antiga
+O código de Registro não funciona mais. Por favor, entre em contato com (sales@systemsoftlab.com) para adquirir seu novo código de registro
+Se você não ver o seu nome e os seus dados aqui, Então você está usando uma versão crackeada ou roubada, e esta versão pode funcionar incorretamente!
+Pointer To Pointer
+Maximum offset
+Level from
+Search the pointer to Pointer
+Maximum 2 level for SE edition!
+Try to Disable Driver Signature Enforcement
+Fast mode (uses more memory)
+Mb
+Auto apply the offset and copy to new group
+Address in block
+I can not convert address in block: No such block in the process.
+Convertion problem: Block size is not unique.
+Sort pointers by offset
+Hide the text for full stealth mode//VIP only
+Buy or Sell Online Game Accounts
+New version available for download
+Check for new versions
+Pointer with offset
+Search the pointer with max available offset
+available from 2 step
+Formula
+Version
+Always on Top
+Enable "Always On Top"
+Disable "Always On Top"
+Check your internet connection! Can not open systemsoftlab.com
+Try to set option
+Name/Module
+Hex Code
+Register
+Flag
+Attach The Debugger
+Detach The Debugger
+Do you want to attach the debugger to selected process?
+Breakpoints list
+Commands
+Debug
+Save debug information
+Load debug information
+Assembly language
+x86-32 bits
+x86-64 bits
+Breakpoint
+Add breakpoint
+Remove breakpoint
+Run
+Run till
+Until return
+Trace step
+Trace step over
+Set address name
+Remove address name
+Yes
+No
+Debugger type
+Standart
+Exception handling
+Executable breakpoint type
+Software (int3 instruction)
+int3
+Debug registers (max 4)
+register
+Page exceptions
+exceptions
+Access breakpoint type
+Ask when attach debugger to process
+Use software breakpoints if all debug registers are used
+Auto Save/Load debug info
+Use debug symbols
+Symbol path
+Active
+Break
+Execute
+Any access
+Write
+Conditions
+Changes
+Enable ALL
+Disable ALL
+Find an instruction that's accessing the address
+On memory access
+On memory write
+Conditions error
+Changes error
+Divide by zero
+Read error
+Write error
+Wrong left side
+Start
+Stop
+Access
+Clear result
+Divide by threads
+Number
+Thread
+8-bits
+16-bits
+32-bits
+Hex//Hexadecimal maxsize 11
+Hex//Hexadecimal short maxsize 5
+Float4
+Float8
+Hex sequence
+systemsoflab.com server isn't responding or no internet connection
+Registration code is banned
+You can activate this code only 2 times per day
+The registration code is only suit for VIP Edition
+Hide debugger present
+Save table in unicode
+Get size till function end (till return)
+Licenses
+Scan memory regions
+data writable
+data readonly
+code writable
+code readonly
+shared
+system
+guarded
+hidden
+Multiplicity of each address
+Address names and symbols list
+Folder symbols
+User names
+Case sensitive
+Whole words
+First position
+Read/Write
+Auto detect size of functions
+Hide debug registers
+Patch this functions (structures)
+Burlar proteção do processo
+Usar funções próprias para acessar a memória
+User mode functions (attach to the process)
+Kernel mode functions (via driver)
+Attach to the process without OpenProcess
+Signatures
+Signature search
+Add signature
+Offset
+Auto search
+Static adress
+Regions
+Edit as the assembly code
+As assembly code
+Convert to HEX
+Limit unique offsets per level
+Code replacing
+Replace the code
+Replace all codes simultaneously
+<REPLACED>
+<NOT REPLACED>
+<NO MODULE>
+<NO BLOCK>
+<NO SIGNATURE>
+<NO VARIABLE>
+Code injecting
+Inject the code
+Only after successed code replacing
+Automatically replace all codes and inject
+Allow to automatically replace all codes and inject
+Ask for permission to automatically replace all codes and inject
+The table contains a code for injection and replacement. It can be malicious code! Download tables only from most trusted websites! Do you want to inject the code in the process?
+Replace all codes and inject
+Cancel code replacing and injecting
+Signature
+Original Signature
+Wrong original signature
+Address of signature//full
+Address of sign.//short
+Address of variable/label//full
+Address of variable//short
+I can not convert the address of signature: No such signature.
+I can not convert the address of variable: No such variable.
+Name//variable or label
+Code size for replacing 
+One assembler instruction
+Several assembler instructions
+Line
+Relative addressing error (offset is too big)
+Invalid multiplier
+Back jmp error
+Cannot allocate memory
+Areas//Memory areas
+Set mirror address
+Clear mirror address
+from the minimum address
+Service
+Show pointer offsets in hexadecimal
+Use RAX(EAX) register. Only MOV instruction with RAX(EAX) register can read/write an absolute address!
+Change process speed
+Your speed (%)
+Normal//Speedd
+Change process speed error
+Increase process speed
+Decrease process speed
+Stack
+View as stack
+Save thread stack
+Return adress
+Parameter
+Parameters
+Show parameters in one line
+Return address only in module
+Read Memory Error
+Digits after a decimal point (Fractional part)//full
+Digits a.//short
+Masks
+Read mask
+Write mask
+Use mask type
+<MASK ERROR>
+Server sent an invalid response or bad internet connection
+stacks
+Use stack of the threads as module name
+Limit the number of threads
+Stack of thread
+64-bit stack of thread
+Temp files folder
+Current user folder
+Program folder
+Another folder
+Temp folder error
+Temp folder does not exist and could not be created
+Last digits
+D8E88436

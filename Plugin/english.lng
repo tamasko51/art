@@ -1,0 +1,741 @@
+ArtMoney Plugin
+8.17//Version
+//Translated on english by - line from plugin author
+//Plugin author, if empty then System SoftLab
+//Author email, if empty then artmoney@systemsoftlab.com
+About
+Game Cheater
+<ms> <d>, <yyyy>//date format
+Copyright (C) 1996-2021, System SoftLab
+If you have found some bugs or
+have some suggestions, email to
+Please visit the ArtMoney site for the latest version
+Value
+Search
+Filter
+Number of values
+At first, select the game process
+Now begin search in the process
+Filter until the number of matching occurrences no longer decreases
+Sorry, but you found nothing. Try again.
+Disable
+Found
+addresses
+addresses
+address
+In table
+Load error
+Search error
+Filter error
+File format is not supported
+Impossible number for your type
+I can not load
+Search process
+Filter process
+all possible
+byte
+byte
+bytes
+Invalid method. Try others.
+sec
+min
+You selected no type for this method
+Type size can't be more than
+was changed
+was not changed
+was increased
+was decreased
+This table has been created by a newer version
+This table is damaged
+File access error
+Integer 1 byte
+Integer 2 bytes
+Integer 3 bytes
+Integer 4 bytes
+Integer 8 bytes
+Float 4 bytes
+Float 6 bytes
+Float 8 bytes
+Float 10 bytes
+Text
+Null-terminated string
+Null string
+Pascal string
+R.Integer 2 bytes//R.=Reverse
+R.Integer 3 bytes
+R.Integer 4 bytes
+R.Integer 8 bytes
+R.Float 4 bytes
+R.Float 6 bytes
+R.Float 8 bytes
+R.Float 10 bytes
+R.Text
+R.Null String
+R.Pascal string
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+F//F=Freeze
+Help
+About
+Select process
+Clear
+Load
+Save
+Add
+Add all
+Edit
+Copy
+Delete
+Freeze
+UnFreeze
+Auto apply the offset
+Info
+Process type
+Freeze time (ms)
+Refresh time (ms)
+Interface language
+Show addresses
+Popup hotkey
+General
+Additional
+Personal
+Email
+Default comment
+Operating system
+Decimal format
+Bytes order
+Scan priority
+High
+Full
+Options
+Cancel
+Normal
+Edit Address
+Freeze
+Size
+Address
+Description
+Type
+Reverse
+Exact value
+Sequence of values
+Range of values
+Unknown value
+Encoded value
+Custom
+Select Type
+Bytes order
+Normal and reverse
+ALL
+Integer
+Float
+Elapsed Time:
+Remaining Time:
+Speed:
+Found:
+Game
+Comment
+Date
+System
+Table information
+Created by
+Name
+Location
+Sequence input
+Setup hot key
+Reverse
+Search in this memory block
+Search in address range
+Save disk space
+from
+to
+Search
+Filter
+Step
+Step//Set value
+Set value
+Select all
+AUTO
+Show processes
+Visible
+With windows
+Process Information
+Kill the process
+Show window
+Hide window
+Are you sure you want to terminate the process?
+Access is denied
+Unable to Terminate Process
+File name
+Process type
+Data size
+Benchmark
+Benchmark for measuring the speed of memory scan
+Wait
+Your system
+Special Hotkeys
+Add to the value
+Lock this window
+Enable Undo/Redo the filtration
+Integer view
+Unsigned
+Signed
+Undo the filtration
+Redo the filtration
+Save the filtration
+Load the filtration
+Current step is
+"Undo the filtration" is not enabled
+"Redo the filtration" is not enabled
+"Load the filtration" is not enabled
+was increased by
+was decreased by
+Interface
+Hotkeys
+Hotkeys are enabled
+Hotkeys by default
+Face font
+Table font
+Face color
+Edit color
+Button color
+Ellipse button
+OK
+Memory editor
+Hexadecimal view
+Hexadecimal edit
+Number of value columns
+Cell view
+Current cell
+Moving
+moving in search result
+moving in table
+moving in memory block
+moving to address
+First
+Previous
+Next
+Last
+Total
+Current
+Copy the area
+Insert the area
+Add to the table
+All (standard)
+Integer (standard)
+Float (standard)
+Invert selection
+Align columns
+<NO>
+Pointer
+Refresh
+Edit selected
+Group
+Visible group
+Select group
+Save this address/pointer
+Auto apply the offset to all
+Auto apply the offset to group
+Auto apply the offset of saving address to all
+Auto apply the offset of saving address to group
+The commands with pointers
+Set the pointer to all
+Set the pointer to group
+Set saving pointer to all
+Set saving pointer to group
+Set pointers to this address
+Set pointers to saving address
+Search the pointer to this address
+Search the pointer to beginning of memory block
+Sort
+Sort by description
+Sort by address
+Sort by value
+Sort by value as text
+Sort by group
+Merge
+Merge error
+Both tables must be created by one author
+Select current process
+Charset
+Show visible group panel
+in group
+Convert pointers to addresses
+Set filter
+String
+<File not found>
+<Access denied>
+File Editor
+Errors
+<Size has changed>
+Skin
+No Skin
+Edit font
+Table color
+Save a memory dump
+By formula
+Process
+Stop the process
+Resume the process
+Save the process
+Load the process
+Process ID
+Threads
+File(s)
+File(s) Information
+Select File
+Select Folder
+Number of file(s)
+Total size
+Moving in folder
+Object
+Table
+Exit
+Result
+More
+Buy "ArtMoney Pro" online
+Visit Home Page
+ArtMoney Manual
+Encoding
+Select Encoding
+Brightness
+Hue
+Show main menu
+Use non-official language plugins
+Stop process during search
+Save/Load values in file-table
+Library for process viewer
+Folder options
+Filename mask
+Modification time
+File Date
+File Time
+No check
+Last 15 min
+Last hour
+Last day
+Last month
+Last year
+More than
+Less than
+This feature is available only in ArtMoney Pro Edition
+Only in ArtMoney Pro
+License Agreement
+I agree with the terms and conditions of License Agreement
+About PRO Edition
+Special thanks
+for design of the user manual
+for logo
+for setup module
+for icon creation
+for grammar checking of the English manual
+for help
+for skin engine (package ThemeEngine)
+for advice and valuable remarks
+for translation
+for tables
+Registration Number
+Not registered
+Don't ask my password again
+Only for current Windows user
+Stop the process and popup
+Switch and resume the process
+Superfluous closing bracket
+Necessary closing bracket
+Superfluous closing quotation marks
+Invalid ID
+Invalid number of arguments (M1,M2...)
+Invalid number of operations (-,+)
+Invalid number of conditions (<,>,=)
+Invalid number of expressions
+Invalid expression
+This step does not exist
+Invalid condition
+Invalid parameter for
+No conditions
+Searching
+Registration
+Password
+Please enter the password and click "OK"
+Wrong password
+Wrong or old key file
+No key file
+Default
+Canceled by user
+Manual language
+Process not found or access denied
+Refresh the values in a table only with form focus
+Code size
+Process map
+Region address
+State
+Region protect
+Protect
+Module name
+This feature works only in Windows 2000/XP/2003/VISTA/2008/7/8/2012/10
+Saving/loading a process
+Mode
+Invalid Process. Process was changed or restarted.
+Close
+In Excel
+Round float values
+Macromedia Flash
+Range
+Keep the process in memory
+Reserved physical memory size
+Run a new process
+Install
+Create a shortcut on desktop
+Hide the process
+Show the process
+Emulator
+Game system
+Address range
+Use emulator options
+Emulator memory map
+Emul.address
+PC address
+Do you want to convert emulator addresses to PC?
+Do you want to convert PC addresses to emulator?
+Address converting error
+Auto detect emulator by filename
+Groups
+Show tree of groups
+None
+Left
+Right
+New Group
+Main
+Language
+Do you want to delete this language?
+Do you want to add a new language?
+Do you want to change the language name?
+normal freeze
+can increase
+can decrease
+from minimum to maximum
+Minimum
+Maximum
+Copy selected
+Download "Spyware Process Detector"
+"Spyware Process Detector" program is not found on your computer. You can download and install it from our company site: www.systemsoftlab.com. The program can work with ArtMoney together as a process selector. Using "Spyware Process Detector", you can open any hidden process and a process that blocks opening. The program shows detailed information about processes running on your PC and it detects new spyware, trojans and viruses (undetectable by your anti-virus scanner).
+Send suggestions or bug reports to
+Visit our company site and download other programs
+This is a free LIMITED version. You can buy a full version for only $24.90.
+Only registered users get full technical support and can use all extra features.
+To buy, make sure you are connected to the internet, and click the Register online now button below.
+Register online now
+Service Installation
+Windows needs to authenticate the user to install service.
+Install as the following user
+User name
+Domain
+Service Installation Error
+Login failed for user
+Stealth mode
+Hide my process
+Hide my windows
+Old service version installed. Please reboot your computer to install a new version.
+The table has changed
+Do you want to save the changes?
+Ask to save the table with unsaved changes when you exit
+Structure
+Skipped
+Field
+Structure size can not be more than
+Item
+New Item
+Search the structure of table
+Search the structure of group
+Search the structure of selected addresses
+Move Up
+Move Down
+Get "ArtMoney Pro" Free
+for grammar checking of the Russian manual
+Type of rounding
+Round to nearest
+Round down
+Round up
+Round toward zero
+Continue
+Get it Free
+Disassembler
+Assembly instruction
+Use module addressing
+Module
+Address in module
+Convertion error
+I can not convert module address: No such module in the process.
+Scan memory area of system modules
+Scan memory area of shared modules
+Open process error
+Unable to open this process.
+Try to use PRO edition.
+You need PRO edition for this table
+Invalid register
+Invalid address
+Invalid value
+The value is too high
+Invalid assembly instruction
+Run ArtMoney program as administrator once. To do this right click on the ArtMoney shortcut and select the "Run as administrator" from the context menu.
+Service starting error
+Service opening error
+Try to reboot your computer
+was changed by
+Table conversion
+Do you want to convert your table to 64-bit mode?
+Do you want to convert your table to 32-bit mode?
+Conversion error occurred. The program can not convert the addresses to 32-bit mode.
+Multiplicity of address//Address divisibility
+Even//Divisibility by 2
+Odd
+Multiple of 4//Divisibility by 4
+Multiple of 8//Divisibility by 8
+Multiple of 16//Divisibility by 16
+Scan only static addresses in modules
+Display module options
+Enter registration code
+Please paste buffer with your registration code (use Ctrl-V or "Paste" button) and click "OK"
+Paste
+The registration code is invalid
+The registration code is only suit for english version
+The registration code is only suit for russian version
+The registration code is only suit for old version
+The registration code does not work more. Please contact at sales@systemsoftlab.com for your new registration code
+If you don't see your name and your data here, then you use cracked or stolen version, and this version can work incorrectly!
+Pointer To Pointer
+Maximum offset
+Level from
+Search the pointer to Pointer
+Maximum 2 level for SE edition!
+Try to Disable Driver Signature Enforcement
+Fast mode (uses more memory)
+Mb
+Auto apply the offset and copy to new group
+Address in block
+I can not convert address in block: No such block in the process.
+Convertion problem: Block size is not unique.
+Sort pointers by offset
+Hide the text for full stealth mode//VIP only
+Buy or Sell Online Game Accounts
+New version available for download
+Check for new versions
+Pointer with offset
+Search the pointer with max available offset
+available from 2 step
+Formula
+Version
+Always on Top
+Enable "Always On Top"
+Disable "Always On Top"
+Check your internet connection! Can not open systemsoftlab.com
+Try to set option
+Name/Module
+Hex Code
+Register
+Flag
+Attach The Debugger
+Detach The Debugger
+Do you want to attach the debugger to selected process?
+Breakpoints list
+Commands
+Debug
+Save debug information
+Load debug information
+Assembly language
+x86-32 bits
+x86-64 bits
+Breakpoint
+Add breakpoint
+Remove breakpoint
+Run
+Run till
+Until return
+Trace step
+Trace step over
+Set address name
+Remove address name
+Yes
+No
+Debugger type
+Standart
+Exception handling
+Executable breakpoint type
+Software (int3 instruction)
+int3
+Debug registers (max 4)
+register
+Page exceptions
+exceptions
+Access breakpoint type
+Ask when attach debugger to process
+Use software breakpoints if all debug registers are used
+Auto Save/Load debug info
+Use debug symbols
+Symbol path
+Active
+Break
+Execute
+Any access
+Write
+Conditions
+Changes
+Enable ALL
+Disable ALL
+Find an instruction that's accessing the address
+On memory access
+On memory write
+Conditions error
+Changes error
+Divide by zero
+Read error
+Write error
+Wrong left side
+Start
+Stop
+Access
+Clear result
+Divide by threads
+Number
+Thread
+8-bits
+16-bits
+32-bits
+Hex//Hexadecimal maxsize 11
+Hex//Hexadecimal short maxsize 5
+Float4
+Float8
+Hex sequence
+systemsoflab.com server isn't responding or no internet connection
+Registration code is banned
+You can activate this code only 2 times per day
+The registration code is only suit for VIP Edition
+Hide debugger present
+Save the table in unicode
+Get size till function end (till return)
+Licenses
+Scan memory regions
+data writable
+data readonly
+code writable
+code readonly
+shared//area
+system//area
+guarded//area
+hidden//area
+Multiplicity of each address
+Address names and symbols list
+Folder symbols
+User names
+Case sensitive
+Whole words
+First position
+Read/Write
+Auto detect size of functions
+Hide debug registers
+Patch this functions (structures)
+Bypass process protection
+Use own functions for access to memory
+User mode functions (attach to the process)
+Kernel mode functions (via driver)
+Attach to the process without OpenProcess
+Signatures
+Signature search
+Add signature
+Offset
+Auto search
+Static adress
+Regions
+Edit as the assembly code
+As assembly code
+Convert to HEX
+Limit unique offsets per level
+Code replacing
+Replace the code
+Replace all codes simultaneously
+<REPLACED>
+<NOT REPLACED>
+<NO MODULE>
+<NO BLOCK>
+<NO SIGNATURE>
+<NO VARIABLE>
+Code injecting
+Inject the code
+Only after successed code replacing
+Automatically replace all codes and inject
+Allow to automatically replace all codes and inject
+Ask for permission to automatically replace all codes and inject
+The table contains a code for injection and replacement. It can be malicious code! Download tables only from most trusted websites! Do you want to inject the code in the process?
+Replace all codes and inject
+Cancel code replacing and injecting
+Signature
+Original Signature
+Wrong original signature
+Address of signature//full
+Address of sign.//short
+Address of variable/label//full
+Address of variable//short
+I can not convert the address of signature: No such signature.
+I can not convert the address of variable: No such variable.
+Name//variable or label
+Code size for replacing 
+One assembler instruction
+Several assembler instructions
+Line
+Relative addressing error (offset is too big)
+Invalid multiplier
+Back jmp error//Return jmp error (jmp to original game code)
+Cannot allocate memory
+Areas//Memory areas
+Set mirror address
+Clear mirror address
+from the minimum address
+Service
+Show pointer offsets in hexadecimal
+Use RAX(EAX) register. Only MOV instruction with RAX(EAX) register can read/write an absolute address!
+Change process speed
+Your speed (%)
+Normal//Speedd
+Change process speed error
+Increase process speed
+Decrease process speed
+Stack
+View as stack
+Save thread stack
+Return address
+Parameter
+Parameters
+Show parameters in one line
+Return address only in module
+Read Memory Error
+Digits after a decimal point (Fractional part)//full
+Digits a.//short
+Masks
+Read mask
+Write mask
+Use mask type
+<MASK ERROR>
+Server sent an invalid response or bad internet connection
+stacks
+Use stack of the threads as module name
+Limit the number of threads
+Stack of thread
+64-bit stack of thread
+Temp files folder
+Current user folder
+Program folder
+Another folder
+Temp folder error
+Temp folder does not exist and could not be created
+Last digits
+DD39DFC1
